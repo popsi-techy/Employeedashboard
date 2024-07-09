@@ -1,6 +1,8 @@
 # Employeedashboard
 "Explore employee demographics and trends with the 'Employee Dashboard' project on GitHub. Powered by Power BI and SQL, it visualizes insights like gender, age, location distribution, turnover rates, and departmental tenures. Gain data-driven insights for effective decision-making."
 
+(click above on to view the dashboard, other files contains code to generate the dashboard)
+
 **Employee Dashboard - Visualizing Company Data using Power BI and SQL**
 
 The "Employee Dashboard" is a comprehensive data visualization project hosted on GitHub that offers insights into employee demographics, workforce distribution, and trends within a company. This project leverages Power BI for creating interactive and visually engaging graphs, while the underlying data is meticulously cleaned, formatted, and organized using SQL.
